@@ -1,0 +1,4 @@
+sender_addr='51tt11@51tt11.xyz'   
+sender_nick='no_reply'
+mail_subject='我要天天双十一'
+mail_content='email.html'
